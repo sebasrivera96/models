@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>logo6_-75_-25.jpg</filename>
+	<path>/home/uidk6783/ObjectDetectionAPI/images/logo6_-75_-25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Continental_logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>26</ymin>
+			<xmax>163</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

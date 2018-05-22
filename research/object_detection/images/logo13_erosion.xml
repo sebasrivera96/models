@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>logo13_erosion.jpg</filename>
+	<path>/home/uidk6783/ObjectDetectionAPI/images/logo13_erosion.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Continental_logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>152</ymin>
+			<xmax>199</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>
